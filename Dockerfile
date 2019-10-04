@@ -1,6 +1,6 @@
 FROM nginx
 MAINTAINER Fernandinho fernandinho@silva.com.br
-LABEL Description = "Conteiner do curso"
+LABEL Description = "Container do curso"
 LABEL class ="Laboratorio"
 EXPOSE 80
 USER root
